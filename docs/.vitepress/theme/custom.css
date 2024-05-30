@@ -1,0 +1,15 @@
+:root {
+  --vp-c-brand-1: #fb8124;
+  --vp-c-default-3: #ed00ba;
+  --vp-c-default-2: #8c006e;
+}
+
+.dark {
+  --vp-c-bg: #0e0e0f;
+  --vp-c-bg-alt: #161618;
+  --vp-c-bg-elv: #202127;
+  --vp-c-bg-soft: #202127;
+  --vp-c-text-1: rgba(47, 247, 7, 0.86);
+  --vp-c-text-2: rgb(0, 146, 251);
+  --vp-c-text-3: rgba(235, 235, 245, 0.38);
+}
