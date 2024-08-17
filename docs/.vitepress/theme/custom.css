@@ -10,6 +10,14 @@
   --vp-c-bg-elv: #202127;
   --vp-c-bg-soft: #202127;
   --vp-c-text-1: rgba(47, 247, 7, 0.86);
-  --vp-c-text-2: rgb(0, 146, 251);
+  --vp-c-text-2: #0092fb;
   --vp-c-text-3: rgba(235, 235, 245, 0.38);
+}
+
+.event-title {
+  color: var(--vp-c-brand-1);
+}
+
+.event-body {
+  color: var(--vp-c-text-2);
 }
