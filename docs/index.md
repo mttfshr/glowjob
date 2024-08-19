@@ -7,6 +7,9 @@ hero:
   tagline: After sundown at D & 4:45
   actions:
     - theme: alt
+      text: Instagram
+      link: https://www.instagram.com/glowjob.camp/
+    - theme: alt
       text: Discord server
       link: https://discord.gg/Ga4DdgapaU
     - theme: alt
