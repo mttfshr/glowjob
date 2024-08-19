@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BdbYcYPl.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fundraiser/costume-swap.md","filePath":"fundraiser/costume-swap.md"}'),s={name:"fundraiser/costume-swap.md"};function r(o,c,n,p,d,i){return a(),t("div")}const u=e(s,[["render",r]]);export{f as __pageData,u as default};
