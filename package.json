@@ -5,7 +5,7 @@
     "@docsearch/react": "^3.6.0",
     "@mdi/font": "^7.4.47",
     "@notionhq/client": "^2.2.15",
-    "@vitejs/plugin-vue": "^5.0.4",
+    "@vitejs/plugin-vue": "^1.7.1",
     "@vue/devtools-api": "^7.2.1",
     "@vueuse/core": "^10.10.0",
     "@vueuse/integrations": "^10.10.0",
@@ -25,7 +25,7 @@
     "@algolia/client-search": "^4.23.3",
     "algoliasearch": "^4.23.3",
     "search-insights": "^2.14.0",
-    "vitepress": "^1.2.2",
+    "vitepress": "^1.6.3",
     "vue": "^3.4.27"
   },
   "scripts": {
